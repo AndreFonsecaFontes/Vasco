@@ -33,12 +33,15 @@ div {
 p{
     text-indent: 30px;
 }
-footer{
+p.ciente_txt{
     text-align: center;
 }
-footer a.ciente{
+a.ciente{
     font-size: 2em;
 }
-footer a.relacao{
+p.relacao_txt{
+    text-align: center;
+}
+a.relacao{
     font-size: 1.2em;
 }
