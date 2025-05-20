@@ -21,6 +21,7 @@ main {
     position: relative;
     height: 80vh; /* necessário para que a div saiba onde centralizar */
     margin: 0 auto; /* centraliza o main na página */
+    padding-bottom: 150px;
 }
 
 div {
